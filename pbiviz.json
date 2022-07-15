@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "testvis460",
+        "displayName": "testvis460",
+        "guid": "testvis4602C9C3DA680A840E982F0B93E3EBADB32",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "",
+        "supportUrl": "",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "4.6.0",
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
